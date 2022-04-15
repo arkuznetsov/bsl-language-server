@@ -1,0 +1,16 @@
+{
+  "total": 29,
+  "tools inspection": {
+    "Code Inspection": 29
+  },
+  "attributes": {
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/arkuznetsov/bsl-language-server",
+        "revisionId": "194ef3d48046371dfc7db9aa114885bfaccc4526",
+        "branch": "develop"
+      }
+    },
+    "deviceId": "200820300000000-edd7-0ab8-d06b-6a847ad71570"
+  }
+}
